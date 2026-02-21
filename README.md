@@ -1,6 +1,6 @@
 # CV
 Rikhunn 
-Junior Fronted Development
+  Junior Fronted Development
 Morska 22
 Gdynia, Polska
 AppleGala@yahoo.com    
